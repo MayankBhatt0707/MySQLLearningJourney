@@ -1,0 +1,4 @@
+Generate a yearly report for Croma India where there are two columns
+
+1. Fiscal Year
+2. Total Gross Sales amount In that year from Croma
