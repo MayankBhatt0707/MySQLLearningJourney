@@ -1,0 +1,6 @@
+1. Show all the movies with their language names
+2. Show all Telugu movie names (assuming you don't know the language
+id for Telugu)
+3. Show the language and number of movies released in that language
+4. Generate a report of all Hindi movies sorted by their revenue amount in millions.
+Print movie name, revenue, currency, and unit
